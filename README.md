@@ -1,12 +1,7 @@
 ## Hi there 👋
 
 - 💡 I’m currently working on [TerminusRPG](https://github.com/daniel-cech-creator/TerminusRPG), a small Turn-Based, Dungeon Crawler RPG project running solely in your terminal.
-- 📚 I’m currently learning **Python**
-
-
-
-  https://i.pinimg.com/736x/a3/28/38/a328385e153e051694193b9258ce0805.jpg![image](https://github.com/user-attachments/assets/bf367d6d-9128-47c2-992c-3e9e7d196f82)
-
+- 📚 I’m currently learning **Python** 🐍
 <!--
 **daniel-cech-creator/daniel-cech-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
