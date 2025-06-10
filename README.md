@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 💡 I’m currently working on [TerminusRPG](https://github.com/daniel-cech-creator/TerminusRPG), a small game project running solely in your terminal.
+- 📚� I’m currently learning **Python**
 <!--
 **daniel-cech-creator/daniel-cech-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
