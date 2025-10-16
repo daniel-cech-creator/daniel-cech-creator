@@ -1,6 +1,5 @@
-#🔭 Currently learning:
+# 🔭 Currently learning:<br>
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)<br>
-![Static Badge](https://img.shields.io/badge/Scratch-%23855CD6?style=for-the-badge&logo=scratch&logoColor=white)<br>
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white)
 
