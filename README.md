@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)<br> <!-- HTML5 -->
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white)<br> <!-- CSS -->
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)<br> <!-- GIT -->
-![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white) <!-- GITHUB -->
+![Static Badge](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)<br> <!-- GITHUB -->
 
 
 
