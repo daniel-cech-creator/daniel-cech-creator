@@ -1,6 +1,6 @@
 # Daniel Čech <br>
 
-[https://www.instagram.com/daniel.cech_/](![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF))
+![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF)
 
 
 
