@@ -1,10 +1,6 @@
 # Daniel Čech <br>
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)<!-- PYTHON -->
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) <!-- HTML5 -->
-![Static Badge](https://img.shields.io/badge/Scratch-%23855CD6?style=for-the-badge&logo=scratch&logoColor=%23FFFFFF) <!-- SCRATCH -->
-![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white) <!-- CSS -->
-![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white) <!-- GIT -->
-![Static Badge](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white) <!-- GITHUB -->
+
+[https://www.instagram.com/daniel.cech_/](![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF))
 
 
 
